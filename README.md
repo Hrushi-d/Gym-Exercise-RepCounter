@@ -1,4 +1,4 @@
-# Gym-Exercise-RepTracker
+# Gym-Exercise-RepCounter
 
 ## Elevate Your Workout Experience 🚀
 
