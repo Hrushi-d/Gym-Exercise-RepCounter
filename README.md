@@ -1,6 +1,6 @@
 # Gym-Exercise-RepCounter
 
-## Elevate Your Workout Experience 🚀
+### Elevate Your Workout Experience 🚀
 
 Welcome to the Ultimate Gym Repetition Counter – your personal fitness companion designed to turn ordinary workouts into extraordinary fitness journeys. Whether you're aiming for gains, endurance, or simply staying fit, this cutting-edge Python application with Mediapipe integration will take your training to the next level.
 
