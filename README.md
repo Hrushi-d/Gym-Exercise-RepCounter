@@ -45,7 +45,7 @@ The Ultimate Gym Repetition Counter is your ticket to a more effective, motivati
 
 ### Contact Us 📧
 
-Have questions, feedback, or need assistance? Reach out to our dedicated support team:
+Have questions, feedback, or need assistance? Reach out to:
 
 - Email: [hrushikeshdagwar@gmail.com](mailto:hrushikeshdagwar@gmail.com)
 
